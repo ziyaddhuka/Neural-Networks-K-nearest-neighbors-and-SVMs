@@ -44,5 +44,3 @@ After this you are good to use the python files and can run using the above comm
 ### once done with grading of the code you can deactivate the environment and delete it
 > deactivate
 > rm -r my_env
-
-## Above code is tested on linux server. If there are any issues which can't be resolved feel free to email me at zxd200000@utdallas.edu
