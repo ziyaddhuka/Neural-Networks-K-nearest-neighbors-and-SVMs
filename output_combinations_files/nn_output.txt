@@ -1,0 +1,128 @@
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.04959999999999998
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.04830000000000001
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.050000000000000044
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.03410000000000002
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.03410000000000002
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.03810000000000002
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.0393
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.036699999999999955
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.024700000000000055
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.04039999999999999
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.025900000000000034
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.02849999999999997
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.024900000000000033
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.02949999999999997
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.0232
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.02629999999999999
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.023299999999999987
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.023599999999999954
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.019399999999999973
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.02190000000000003
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.02070000000000005
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.020000000000000018
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.03810000000000002
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.0393
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.022499999999999964
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.04079999999999995
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.0262
+solver: sgd , activation: relu , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.021100000000000008
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.027699999999999947
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.02859999999999996
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.027699999999999947
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.02939999999999998
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.029200000000000004
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.02090000000000003
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.021599999999999953
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.021599999999999953
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.01870000000000005
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.02100000000000002
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.020199999999999996
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.02210000000000001
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.020399999999999974
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.02190000000000003
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.02200000000000002
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.020399999999999974
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.01990000000000003
+solver: sgd , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.019399999999999973
+solver: sgd , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.022700000000000053
+solver: sgd , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.023599999999999954
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.02090000000000003
+solver: sgd , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.019000000000000017
+solver: sgd , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.031000000000000028
+solver: sgd , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.03180000000000005
+solver: sgd , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.034499999999999975
+solver: sgd , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.022700000000000053
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.04800000000000004
+solver: sgd , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.04749999999999999
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.019299999999999984
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.01880000000000004
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.022700000000000053
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.018199999999999994
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.024399999999999977
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.020499999999999963
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.020199999999999996
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.021100000000000008
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.01739999999999997
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.018900000000000028
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.01859999999999995
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.01959999999999995
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.019100000000000006
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.018399999999999972
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.01759999999999995
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.01739999999999997
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.020299999999999985
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.018299999999999983
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.019000000000000017
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.01959999999999995
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.019299999999999984
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.018100000000000005
+solver: adam , activation: relu , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.019000000000000017
+solver: adam , activation: tanh , hidden_layer_size: (128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.018199999999999994
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.020299999999999985
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.01849999999999996
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.014399999999999968
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.019499999999999962
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.017800000000000038
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.01770000000000005
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.021599999999999953
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.022399999999999975
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.01739999999999997
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.01990000000000003
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.017299999999999982
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.016599999999999948
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.020399999999999974
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.01970000000000005
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.018199999999999994
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.02180000000000004
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.020299999999999985
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.01759999999999995
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.01649999999999996
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.018000000000000016
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.01990000000000003
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.02080000000000004
+solver: adam , activation: relu , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.019499999999999962
+solver: adam , activation: tanh , hidden_layer_size: (512, 128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.02739999999999998
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.018299999999999983
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.001, error rate: 0.022499999999999964
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.024599999999999955
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.01, error rate: 0.018199999999999994
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.025499999999999967
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 50 , alpha: 0.1, error rate: 0.018000000000000016
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.02210000000000001
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 100 , alpha: 0.001, error rate: 0.018199999999999994
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.022199999999999998
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.027800000000000047
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 100 , alpha: 0.01, error rate: 0.020499999999999963
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.0232
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.021299999999999986
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 100 , alpha: 0.1, error rate: 0.021499999999999964
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 200 , alpha: 0.001, error rate: 0.01770000000000005
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.02729999999999999
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.02429999999999999
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 200 , alpha: 0.01, error rate: 0.01759999999999995
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.017900000000000027
+solver: adam , activation: tanh , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.019299999999999984
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 200 , alpha: 0.1, error rate: 0.019199999999999995
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 500 , alpha: 0.001, error rate: 0.015700000000000047
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 500 , alpha: 0.01, error rate: 0.01870000000000005
+solver: adam , activation: relu , hidden_layer_size: (1024, 512, 128, 64) , max_iter: 500 , alpha: 0.1, error rate: 0.017900000000000027
